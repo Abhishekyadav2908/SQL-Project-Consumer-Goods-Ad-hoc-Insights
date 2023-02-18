@@ -8,7 +8,7 @@ I am proud to share my first Codebasics Resume Project Challenge at Atliq Hardwa
 **Domain:** Consumer Goods
 **Function:** Executive Management
 
-**About the Project: **
+**About the Project:**
 
 Atliq Hardware (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions.
